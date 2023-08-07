@@ -16,7 +16,7 @@ This repository contains the code and documentation for my IoT internship tasks.
 Description: IOT-based car parking management system help in efficient parking space utilization only Arduino code and components used.
 
 - Code: [Link to code](SmartParking)
-- Documentation: [Link to documentation](./task1/documentation/)
+- Documentation:
 
 ### Task 2: Air pollution monitoring system
 
